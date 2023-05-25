@@ -12,3 +12,9 @@ services:
       - ./app:/app
     command: >
       sh -c "python manage.py runserver 0.0.0.0:8000"
+    environment:
+      - DB_HOST=michael.iran.liara.ir
+      - DB_NAME=postgres
+      - DB_USER=root
+      - DB_PASS=Xz2TFeL99lUpZcPRxSojWet8
+      - DB_PORT=31939
