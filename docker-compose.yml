@@ -18,5 +18,5 @@ services:
       - DB_HOST=michael.iran.liara.ir
       - DB_NAME=postgres
       - DB_USER=root
-      - DB_PASS=Xz2TFeL99lUpZcPRxSojWet8
-      - DB_PORT=31939
+      - DB_PASS=TOaUEPcfjWlsd6vejZAVhRAN
+      - DB_PORT=33830
